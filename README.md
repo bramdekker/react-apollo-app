@@ -1,3 +1,6 @@
+# React Apollo (GraphQL) App
+<img src="/images/react-apollo-posts.png">
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
